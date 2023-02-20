@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.anxinj.gotofeignimpl.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.anxinj.gotofeignimpl.MyBundle
 
 class MyApplicationService {
 
